@@ -2,6 +2,8 @@
 
 You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique.
 
+Here, I've created my [own Portfolio](https://magertom.github.io/HTMLPortfolioProject/)
+
 ## What You'll Build
 
 The end result will be a portfolio that you can deploy publicly! Here's a sample of what this could look like:
